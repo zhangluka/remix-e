@@ -1,0 +1,1 @@
+import{n as s,O as e,S as r}from"./components-v5Dc8L7N.js";function n(){return s.jsxs("html",{children:[s.jsx("head",{children:s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"})}),s.jsxs("body",{children:[s.jsx("h1",{children:"remix !"}),s.jsx(e,{}),s.jsx(r,{})]})]})}export{n as default};
